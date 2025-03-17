@@ -2,14 +2,20 @@
   "name": "uitheme",
   "displayName": "theckit",
   "description": "It is the theme for creative developers",
-  "publisher": "Aryansh",
-  "version": "0.0.1",
+  "publisher": "Auto-formatter",
+  "icon": "techkitlogo.webp",
+  "version": "0.0.2",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.98.0"
   },
   "categories": [
     "Themes"
   ],
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/ANKIT1149/theckit_ui_theme.git"
+  },
   "contributes": {
     "themes": [
       {
